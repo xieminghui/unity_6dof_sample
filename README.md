@@ -1,1 +1,2 @@
-# unity_6dof_sample
+# SkyworthXR.Plugin.SDK.Sample
+Plugin sdk sample
