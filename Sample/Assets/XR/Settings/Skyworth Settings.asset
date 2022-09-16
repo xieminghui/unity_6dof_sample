@@ -15,7 +15,7 @@ MonoBehaviour:
   m_StereoRenderingModeAndroid: 1
   m_SystemSplash: 1
   m_IgnoreHome: 0
-  m_ResetSensor: 1
+  m_ResetSensor: 0
   m_SafetyAreaEditor: 0
   m_Foveation: 0
   m_foveationLevel: 0
