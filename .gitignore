@@ -62,3 +62,4 @@ Sample/Library/
 Sample/obj/
 *.vsconfig
 Sample/Temp/
+Sample/Logs/

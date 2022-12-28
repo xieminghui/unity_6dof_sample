@@ -12,11 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d534e2eab53a9954db2a2890d60bb05a, type: 3}
   m_Name: Skyworth Settings
   m_EditorClassIdentifier: 
-  m_StereoRenderingModeAndroid: 1
+  m_StereoRenderingModeAndroid: 0
   m_SystemSplash: 1
   m_IgnoreHome: 0
-  m_ResetSensor: 1
-  m_SafetyAreaEditor: 0
-  m_Foveation: 1
+  m_Foveation: 0
+  m_ControllerModel: 1
   m_foveationLevel: 3
   m_TrackMode: 1
