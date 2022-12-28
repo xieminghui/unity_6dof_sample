@@ -1,7 +1,0 @@
-{
-  "displayName": "Input Sample",
-  "description": "Some examples code of how to obtain the input value of the headset and handle.",
-  "dependencies": {
-    "com.unity.inputsystem": "1.0.0"
-  }
-} 
